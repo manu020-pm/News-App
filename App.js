@@ -16,6 +16,8 @@ https://newsapi.org/v2/top-headlines?country=us&pageSize=10&apiKey=${apikey}`
         return [];
     }
 }
+
+
 searchButton.addEventListener("click",async()=>{
     const querry=await searchfield.value.trim()
     if(querry!=""){
