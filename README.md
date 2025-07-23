@@ -32,4 +32,5 @@ A simple and responsive news web application that displays top headlines using t
 =
 
 ## 📂 Folder Structure
+##changes
 
